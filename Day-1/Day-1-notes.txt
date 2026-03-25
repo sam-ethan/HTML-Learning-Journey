@@ -1,0 +1,67 @@
+what is html ?
+html is a hypertext markup language is used to build website structure like blueprint of car same us website structure
+--------------------------------------------------------------------------
+what is browser ?
+
+*we are check any kind of details in internet that is called surfing or browsing 
+*but we can't to in directly we need some software that is called browser 
+*Because the internet uses protocols (like HTTP) that need a browser/software to understand and display data for humans.
+
+---------------------------------------------------------------------------
+
+<!Doctype HTML > what is this ?
+
+*doctype is define the html version to browser , so browser now understand and execute with correct version
+*without this it leads to design scratch or upnormal output 
+
+--------------------------------------------------------------------------
+
+<html> what is this ?
+
+*html is a root of element and it's wraps the webpage 
+*html tag inside the code only consider that is html outer is no value for those text 
+
+---------------------------------------------------------------------------
+<head> what is this ?
+
+*head tag is contains site title and meta data thatmeans our site data its helps for search engine and also users to get our site 
+
+---------------------------------------------------------------------------
+
+<body> what is that ?
+
+body tag inside we can build our site and users see our site structure only we use element inside the body tag
+
+-----------------------------------------------------------------------------
+
+h1 tag ?
+
+h1 tage is also known has heading tage in our site we can forefully some text like differnetiate compare those others we can use h1 tage 
+and is limit is h1 to h6 
+
+----------------------------------------------------------------------------
+
+</p> tag 
+
+p tag is called as paragraph tag in our site we can define soemething breifly or more line wee can use p tage
+
+----------------------------------------------------------------------------
+
+<br> tag
+
+tag is called brake tage like we need content print like line by line instead of one line we use this tag
+and it's also a self closing tag
+
+-----------------------------------------------------------------------------
+<hr> tag ?
+
+
+<hr> is hprizondal line it's split our site like headinf line description line design purpose or split usage also this self
+closeing tag
+
+-----------------------------------------------------------------------------
+<!----> comment line ?
+
+commeint line is helps to who develop the site and also a co developers to understant the code like short notes about the code 
+
+-----------------------------------------------------------------------------
