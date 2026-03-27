@@ -1,0 +1,20 @@
+what is bold <b>tag?
+b tag is used to bold the text , it show different format compare others 
+
+what is <strong >tag ?
+strong tag also make text bold + and empasise that word seo give more importace and , screen readers read that with stress , for blind users 
+and it's semantic tag
+
+what is i tag ?
+i tag is used to change text style italic font format like elegant look
+
+what is em tag ?
+em tag also used for make text italic font and also seo give more important for that for , and screen reads with stree for blind users correct
+
+what is a tag ?
+a tag or anchor tag its used for make link like redirect current page to move another using link like youtube like that 
+href -> is a attripute for a tag extra information added in a html tag 
+
+what is  target="_blank" ?
+target is one of the attripute for anchor tag without  this page will open same tab , with that particular redirect page will open another tab 
+
