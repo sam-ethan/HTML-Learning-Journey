@@ -1,0 +1,55 @@
+ol means ?
+this is order list like 
+1
+2
+3
+
+--------------------------------------
+
+ul means ?
+this is unorder list like 
+.
+.
+.
+.
+
+-------------------------------------
+li means ?
+
+this is list of items liken one by one 
+tea
+coffee
+milk
+
+-------------------------------------
+nested list means ?
+list inside internal list like 
+drinks
+    tea
+    coffee  
+    milk
+food 
+    parotta
+    dhosai
+    idly
+-------------------------------------
+img tag ?
+that is tag is used to show image in site 
+------------------------------------
+width and height ?
+both are attripute is helps to fix or change the image size.
+without this image show that current ratio
+------------------------------------
+img with internal source ?
+we can put our localstorage any image in site inside
+image shoq with or without internet because that is store in internally 
+------------------------------------
+img with url ?
+pick any image through internet and show your site 
+but that image will show .must need to internet connection 
+
+---------------------------------------
+alt attripute ?
+it's helps while image not load or low internet it's show image alternate text . so user can easily understand
+
+---------------------------------------
