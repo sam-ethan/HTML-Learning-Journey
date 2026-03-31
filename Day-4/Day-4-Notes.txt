@@ -1,0 +1,85 @@
+table tag ?
+table is used to create table in site 
+
+----------------------------
+td tag?
+td tag mean  table data 
+
+name | age
+sam  |20   ->table data <td>
+---------------------------
+th tag ?
+th means table head 
+name | age ->table head <th>
+
+--------------------------
+border attripute ?
+border attripute is helps to give border to the table ,without border that is does'nt look like table view
+
+------------------------
+colspan attripute ?
+is used to merge colums horizondal 
+
+<td colspan="2">Merged Columns</td>
+
+ This cell takes 2 columns space
+
+----------------------------------
+
+rowspan attripute 
+is used to take merge rows vertical
+
+<td rowspan="2">Merged Rows</td>
+
+This cell takes 2 rows space
+
+rowspan and colspan are used only inside <td> or <th>, NOT <tr>
+
+-----------------------------------
+
+thead tag ?
+used to define the table header section 
+
+<thead>
+<tr>
+<th>name</th>
+<th>age</th>
+</tr>
+</thead>
+
+----------------------------------
+
+<tbody> tag used to define the table main data ?
+
+<tbody>
+<tr>
+    <td>sam</td>
+    <td>29</td>
+    </tr>
+    </tbody>
+
+-----------------------------    
+<tfoot> used to define the footer(summary)
+
+<tfoot>
+<tr>
+<td>name is :sam</td>
+<td>age is 29</td>
+</tfoot>
+
+-----------------------------
+
+Normal table vs Structured Table :
+
+ Normal Table vs Structured Table
+ Normal Table
+
+Only uses <table>, <tr>, <td>
+No separation of parts
+
+Structured Table (<thead> <tbody> <tfoot>)
+
+Divides table into header, body, footer
+More organized
+
+----------------------------------------
