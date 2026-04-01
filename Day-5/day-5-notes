@@ -1,0 +1,50 @@
+<form> tag ?
+    that tag helps to collect data from user 
+
+--------------------------------------------
+action ?
+Specifies where the form data should be sent (server URL)
+this attripute is define those data action which file handled like 
+action="login.php"this file handle user data like store calcualtion or verfication 
+--------------------------------------------
+method ?
+this attripute define the process get the data or post the data in server
+get ->visible in url , post ->data send from hidden ways
+---------------------------------------------
+some input types ?
+text =>user give text everything number , synbols .etc
+password=>user texts or hidden
+email=> this accept only valid email format
+data=>users pick a date 
+radio =>users pick any one in 2 like this or that 
+checkbox=>users pick the multiple box 
+file=>users send a file 
+submit =>send form data to server
+button=>triggeres custom actions 
+---------------------------------------------------
+<label> tag and "for" attripute ?
+label tag is helps to identify the corressponding input box 
+for attripute also but some extra future .
+user click on the label that directly pic the corressponding input box .
+but that box id and label for it should be same name 
+ example
+ <label for="name"> <input type="text" id="name">
+
+ ----------------------------------------------------
+ <select> and <option> tag ?
+ select tag is used to create dropdown list in user form 
+ option tage is used to give multiple option in the dropdown
+
+ ----------------------------------------------------
+ <textarea> tag ?
+ is used to enter multi line text
+
+ ----------------------------------------------------
+ placeholder , required , and  readonly attripute usage ?
+
+ placeholder its give some hidden hint inside input box its helps to user 
+ required its make mandetory to the particular input field
+ readonly its visible only and user cannot edit
+
+---------------------------------------------------------
+
