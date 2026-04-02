@@ -1,0 +1,42 @@
+<header> tag ?
+is used to add logo,intro or title on or webpage
+-----------------------------------------
+<nav> tag ?
+is used to navigate website pages 
+
+-----------------------------------------
+<main> tag ?
+used for main content of the webpage used only one time in page 
+
+----------------------------------------
+<footer> tag ?
+used for bottom section like copyrights links contacts
+
+-----------------------------------------
+difference normal vs semantic ?
+normal tags : div ,span ->used for layout our page , meaningless
+semantic tags : header , nav give meaning to our page and improve (seo->optimisation , readipility and accessapility) 
+
+---------------------------------------
+<section>tag ?
+used to group related content in a one section like (chapter in one page)->group the related content
+
+---------------------------------------
+<article> tag ?
+used for independent content like blog post , product card like newspaper
+
+---------------------------------------
+<aside > tag ?
+used for side content , like ads , tips , sidebar info
+
+--------------------------------------
+ Why semantic HTML matters (SEO + accessibility) ?
+ search engine understand your context like article ->so give more important and rank
+
+ --------------------------------------
+ div and span difference ?
+
+ div : tag is used to build one container and put more context , and take over all width  ,block level container 
+ span : tag is used to change change particular style in one or two places in a para or whaterver  , inline container 
+
+ --------------------------------------
