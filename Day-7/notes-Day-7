@@ -1,0 +1,24 @@
+<video> tag ?
+is used to embedded the video in webpage 
+
+-------------------------------------------------
+
+<audio> tag ?
+is used to embedded the audio tag in webpage
+
+-------------------------------------------------
+<iframe>
+is used to embed the external website content like (youtube video , map) in our webpage
+
+------------------------------------------------
+meta tags ?
+
+charset ->is used to encode like utf-8 so all text show without any issues 
+viewport->controls layout for mobile view responsiveness
+description ->is give a short summary of our page for search engines optiomization 
+
+------------------------------------------------
+favicon ?
+favicon is used visible is in tab browser , visible to site 
+
+--------------------------------------------------
